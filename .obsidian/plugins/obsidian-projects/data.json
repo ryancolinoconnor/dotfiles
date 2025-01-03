@@ -1,0 +1,22 @@
+{
+  "workspaces": [
+    {
+      "id": "f9ff4618-240f-4b9c-9bf8-9c7b575ca708",
+      "name": "Sample",
+      "path": "",
+      "recursive": false,
+      "defaultName": "",
+      "templates": [],
+      "views": [
+        {
+          "id": "597fa32f-e10d-4595-a98b-57f2c6889688",
+          "name": "Table",
+          "type": "table",
+          "config": {}
+        }
+      ]
+    }
+  ],
+  "lastWorkspaceId": "f9ff4618-240f-4b9c-9bf8-9c7b575ca708",
+  "lastViewId": "597fa32f-e10d-4595-a98b-57f2c6889688"
+}

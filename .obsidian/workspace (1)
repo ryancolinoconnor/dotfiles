@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "2664a4a059570a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "213e7124711f8e81",
+        "type": "split",
+        "dimension": 85.92540464461646,
+        "children": [
+          {
+            "id": "700d2a0647351b06",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Capture 202007201913.md",
+                "mode": "source"
+              }
+            },
+            "group": "cfed3b5c97aef170"
+          },
+          {
+            "id": "bfdb58509ff611dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Capture 202007201913.md"
+              }
+            },
+            "group": "cfed3b5c97aef170"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "48ff733d68df7d69",
+        "type": "leaf",
+        "dimension": 14.074595355383531,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Failed frictionless.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee24cb0c69c29f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0b60f9d8d128ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e2ad6b02e7cd730",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f00d30404e065c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "95b8c2eabc20cbd8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189
+  },
+  "right": {
+    "id": "a93961d4fd7c9bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd36b44981ffbf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d7c343d36ccddb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "613fd4a3efd8e964",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "lastOpenFiles": [
+    "Daily Capture 202007201913.md",
+    "20200720.md",
+    "Link to daily file 202007200503.md",
+    "202007201913.md",
+    "202007201912.md"
+  ]
+}

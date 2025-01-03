@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "ba2012653b0bbfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01840471eb5ebe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074354a5b8e58c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Daily Notes/20241117.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20241117"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaec0cc33813530e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8456cd86fa4e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37a3d0653172a1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b06f0745e59cac0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4820cc2464d90e8b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "240bf56cfa0c18e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.51103591918945
+  },
+  "right": {
+    "id": "8401ae8278005f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c05173fb98c99cf",
+        "type": "tabs",
+        "dimension": 78.76857749469214,
+        "children": [
+          {
+            "id": "998fbba6f13afbbd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "9857ab819d38c8a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Daily Notes/20241117.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20241117"
+            }
+          },
+          {
+            "id": "06478611d7c8c791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Daily Notes/20241117.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20241117"
+            }
+          },
+          {
+            "id": "55e511bc92385f96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa94547e1ce49599",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7fef91ef9efaf57e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "63a8cf3254e65f7b",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "36355244fd5ff005",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b153835d51ffc9a0",
+        "type": "tabs",
+        "dimension": 21.23142250530786,
+        "children": [
+          {
+            "id": "5b867e5d77248ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Daily Notes/20241117.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20241117"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "whisper:Open recording controls": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "floating": {
+    "id": "496fdcd8eeb913bc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "21f7553444e30449",
+        "type": "window",
+        "children": [
+          {
+            "id": "1bb27fc10ff4d972",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae54c750689b50ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Daily Notes/20241030.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20241030"
+                }
+              },
+              {
+                "id": "a8d6df583303ce82",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Daily Notes/20250102.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250102"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 2185,
+        "y": 3320,
+        "width": 1024,
+        "height": 802,
+        "maximize": true,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "074354a5b8e58c21",
+  "lastOpenFiles": [
+    "Personal/Daily Notes/20241204.md",
+    "Personal/Daily Notes/20241130.md",
+    "Personal/Daily Notes/20241119.md",
+    "Personal/Daily Notes/20250102.md",
+    "Personal/Daily Notes/20241118.md",
+    "Personal/Daily Notes/20241117.md",
+    "Personal/Daily Notes/20241030.md",
+    "Indexes.md",
+    "Personal/Daily Notes/20241114.md",
+    "Untitled 22.md",
+    "Personal/Daily Notes/20241027.md",
+    "Personal/Daily Notes/20241029.md",
+    "Personal/Daily Notes/20241028.md",
+    "Personal/Daily Notes/20241024.md",
+    "Untitled 23.md",
+    "Personal/Daily Notes/20241020.md",
+    "Uluh.md",
+    "Personal/Daily Notes/20241019.md",
+    "Personal/Daily Notes/20241017.md",
+    "Personal/Daily Notes/20241016.md",
+    "Personal/Daily Notes/20241012.md",
+    "Resources/Readwise/Books/Laughter.md",
+    "Personal/Daily Notes/20241015.md",
+    "desktop.ini",
+    "Personal/Daily Notes/20241013.md",
+    "Personal/Daily Notes/20241009.md",
+    "Personal/Daily Notes/20241010.md",
+    "Pasted image 20240821173209.png",
+    "Pasted image 20240821173203.png",
+    "Pasted image 20240821173109.png",
+    "Pasted image 20240819223557.png",
+    "Pasted image 20240819223506.png",
+    "Pasted image 20240818213252.png",
+    "Pasted image 20240818213220.png",
+    "Pasted image 20240818171229.png",
+    "Pasted image 20240818165119.png",
+    "Pasted image 20240818164049.png",
+    "_Permanent Notes/Investing/CryptoCurrencies/desktop.ini",
+    "obsidian/snippets",
+    "obsidian"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Shy",
+      "path": "Shy.md"
+    },
+    {
+      "type": "file",
+      "title": "202111031940_ My obsidian system",
+      "path": "Resources/Systems/202111031940_ My obsidian system.md"
+    },
+    {
+      "type": "file",
+      "title": "202111242154_ Lex Fridman Podcast",
+      "path": "Resources/Imports/Aggregations/202111242154_ Lex Fridman Podcast.md"
+    }
+  ]
+}

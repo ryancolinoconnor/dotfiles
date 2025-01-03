@@ -1,0 +1,13 @@
+{
+  "renderAll": false,
+  "renderImages": true,
+  "renderPDF": true,
+  "renderIframe": true,
+  "renderExcalidraw": true,
+  "renderTransclusion": true,
+  "renderAdmonition": true,
+  "renderMermaid": true,
+  "renderMathJax": true,
+  "refreshImagesAfterChange": true,
+  "WYSIWYG": true
+}

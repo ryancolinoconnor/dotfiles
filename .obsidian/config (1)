@@ -1,0 +1,120 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Starred": true,
+    "Page preview": true,
+    "Zettelkasten prefixer": true,
+    "Daily notes": true,
+    "Random note": true,
+    "Open with default app": true
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "hotkeys": {
+    "backlink:open-backlinks": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "V"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "H"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "D"
+      }
+    ],
+    "zk-prefixer": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "n"
+      }
+    ],
+    "editor:focus-top": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowUp"
+      }
+    ],
+    "editor:focus-bottom": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowDown"
+      }
+    ],
+    "editor:focus-left": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "editor:focus-right": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "workspace:toggle-pin": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "p"
+      }
+    ]
+  },
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTimeReverse"
+}

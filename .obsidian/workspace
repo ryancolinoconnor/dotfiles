@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ba2012653b0bbfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cf588b984d4d4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "jittered_inbox/20221004_ system design hard to account for collusion.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaec0cc33813530e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8456cd86fa4e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37a3d0653172a1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b06f0745e59cac0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cb/letterstomybrother",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4820cc2464d90e8b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.5036334991455
+  },
+  "right": {
+    "id": "8401ae8278005f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c05173fb98c99cf",
+        "type": "tabs",
+        "dimension": 50.050658561296856,
+        "children": [
+          {
+            "id": "998fbba6f13afbbd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9857ab819d38c8a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jittered_inbox/20221004_ system design hard to account for collusion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06478611d7c8c791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jittered_inbox/20221004_ system design hard to account for collusion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55e511bc92385f96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa94547e1ce49599",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "14e33942167dc639",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "657f8c13e044a125",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fef91ef9efaf57e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "b153835d51ffc9a0",
+        "type": "tabs",
+        "dimension": 49.949341438703144,
+        "children": [
+          {
+            "id": "5b867e5d77248ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jittered_inbox/20221004_ system design hard to account for collusion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.0631713867188
+  },
+  "active": "d7cf588b984d4d4e",
+  "lastOpenFiles": [
+    "_Permanent Notes/202201171946_ The extreme end of either thing can be bad.md",
+    "jittered_inbox/20221004_ system design hard to account for collusion.md",
+    "jittered_inbox/20221004_ dealing with bad actors is hard..md",
+    "Personal/Daily Notes/20210618.md",
+    "Personal/Daily Notes/20221024.md",
+    "Inbox/20220915_ Personal Notes.md",
+    "Personal/Daily Notes/20221020.md",
+    "jittered_inbox/20221003_ braess paradox adding a road to anetwork canslow down overall traffic flow.md",
+    "jittered_inbox/20221003_ paradox of choice.md",
+    "old/Roam-Export-1652575912046/June 20th, 2021.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pluginList": [
+    "Quorafind/Obsidian-Daily-Notes-Editor",
+    "Quorafind/Obsidian-New-Bullet-With-Time",
+    "Make-md/makemd",
+    "TfTHacker/obsidian42-strange-new-worlds",
+    "marcusolsson/obsidian-projects",
+    "jensmtg/influx",
+    "hadynz/obsidian-sidekick",
+    "nothingislost/obsidian-query-control",
+    "GitMurf/obsidian-drag-and-drop-blocks"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

@@ -1,0 +1,107 @@
+{
+  "userHierarchies": [
+    {
+      "up": [
+        "Parent"
+      ],
+      "same": [
+        "Sibling"
+      ],
+      "down": [
+        "Child"
+      ]
+    },
+    {
+      "up": [
+        "up"
+      ],
+      "same": [
+        "sibling"
+      ],
+      "down": [
+        "down"
+      ]
+    },
+    {
+      "up": [
+        "type"
+      ],
+      "same": [
+        "sib"
+      ],
+      "down": [
+        ""
+      ]
+    },
+    {
+      "up": [
+        "MOC"
+      ],
+      "same": [
+        "related"
+      ],
+      "down": [
+        "note"
+      ]
+    }
+  ],
+  "indexNote": [
+    ""
+  ],
+  "CSVPaths": "",
+  "hierarchyNotes": [
+    ""
+  ],
+  "hierarchyNoteDownFieldName": "",
+  "hierarchyNoteUpFieldName": "",
+  "refreshIndexOnActiveLeafChange": false,
+  "altLinkFields": [],
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "rlLeaf": true,
+  "showTrail": true,
+  "limitTrailCheckboxStates": {
+    "Parent": true,
+    "up": true,
+    "type": true,
+    "MOC": true
+  },
+  "hideTrailFieldName": "hide-trail",
+  "trailOrTable": 3,
+  "gridDots": false,
+  "dotsColour": "#000000",
+  "gridHeatmap": false,
+  "heatmapColour": "  #E92741",
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
+  "limitWriteBCCheckboxStates": {
+    "Parent": true,
+    "up": true,
+    "type": true,
+    "MOC": true,
+    "Sibling": true,
+    "Child": true,
+    "sibling": true,
+    "down": true,
+    "sib": true,
+    "related": true,
+    "note": true
+  },
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "aliasesInIndex": false,
+  "debugMode": false,
+  "superDebugMode": false
+}

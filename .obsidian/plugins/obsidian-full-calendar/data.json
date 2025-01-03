@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "rgb(133, 72, 161)",
+      "directory": "/"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 0
+}
